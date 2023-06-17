@@ -110,6 +110,16 @@ input{
     text-align: center;
     font-size: 4rem;
     color: #1DA1F2;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.description{
+    text-align: center;
+    font-size: 3rem;
+    color: #657786;
+    margin: 0 0 1rem;
+    
 }
 
 .content{

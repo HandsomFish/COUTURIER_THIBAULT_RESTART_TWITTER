@@ -26,7 +26,7 @@ $allTweets = $requete->fetchAll(PDO::FETCH_ASSOC);
 <body>
 
     <div class="header">
-    <h1>Twitter</h1>
+    <h1>Quitter</h1>
         <div class="nav-button"><i class="fa-solid fa-bars fa-2xl burger-menu"></i>
             <div class="navbar" id="menu">
                 <a href="#" class="nav-item"><i class="fa-solid fa-house fa-xl nav-icon"></i></a>            
